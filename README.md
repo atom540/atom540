@@ -31,9 +31,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumitkumar&theme=radical&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumitkumar&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=atom540&theme=radical&hide_border=false&include_all_commits=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=atom540&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atom540&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
